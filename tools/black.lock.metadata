@@ -4,7 +4,7 @@
     "CPython==3.13.7"
   ],
   "generated_with_requirements": [
-    "black~=24.10.0"
+    "black~=26.5.1"
   ],
   "manylinux": null,
   "requirement_constraints": [],
