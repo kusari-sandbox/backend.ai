@@ -6,7 +6,7 @@
   "generated_with_requirements": [
     "mypy==1.18.2",
     "pydantic~=2.13.5",
-    "strawberry-graphql~=0.314.0"
+    "strawberry-graphql~=0.327.2"
   ],
   "manylinux": null,
   "requirement_constraints": [],
